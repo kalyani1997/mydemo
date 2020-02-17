@@ -25,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -54,6 +55,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581939165618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581939165618" />
     <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1578726395866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -62,6 +67,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578391200958" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1581939172807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581939172807" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1578723217190">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
